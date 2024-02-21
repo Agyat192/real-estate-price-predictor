@@ -1,5 +1,3 @@
-realestate repository have eight folder
-consist of row data, jupyter notebook checkpoint
-output data 
-realestate date
-randome comapny name(sudarshana)
+This machine learning project using python  give you a complete understanding on how machine learning problems are tackled in real world scenarios. We will understand the problem of a real estate company from its Sudarshana real estate (we took random company name) and apply ML program which created to solve it. 
+In this project you will be walking you through analyzing the problem from collecting data, importing it to a Jupyter notebook, looking for promising attributes, finding out correlations, plotting graphs, creating a pipeline, dealing with missing values and much more. 
+At the end you present the problem to the real estates company who will use the model for predicting house prices given a set of features. You will understand how concepts like cross validation, train-test splitting, stratified shuffle split, cross validation and sampling work in action.
